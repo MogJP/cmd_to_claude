@@ -4,6 +4,12 @@
 - 副産物として、VSCodeのデフォルトターミナルがpowershell/command promptでも、オレンジのclaude-codeボタンから起動できるようになります。
 - <img width="170" height="35" alt="image" src="https://github.com/user-attachments/assets/33e5bf81-c8ab-4a99-bdba-963c2e1cca0f" />
 
+## サポート
+
+このプロジェクトが役に立った場合は、ぜひサポートをお願いします！
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mog_jp)
+
 
 ## アーキテクチャ
 
@@ -90,13 +96,3 @@ cmd_to_claude/
 - ❌ 再配布: 事前許可が必要
 
 商用利用や再配布をご希望の場合は [GitHub Issues](../../issues) でお問い合わせください。
-
-## サポート
-
-このプロジェクトが役に立った場合は、ぜひサポートをお願いします！
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mog_jp)
-
----
-
-作成者: [@MogJP](https://github.com/MogJP)
