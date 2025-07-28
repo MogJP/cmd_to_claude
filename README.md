@@ -1,7 +1,7 @@
 # Claude Code Command Prompt Wrapper
 
-Windows環境で、コマンドプロンプト等から直接`claude`コマンドを実行できます。
-副産物として、VSCodeのデフォルトターミナルがpowershell/command promptでも、オレンジのclaude-codeボタンから起動できるようになります。
+- Windows環境で、コマンドプロンプト等から直接`claude`コマンドを実行できます。
+- 副産物として、VSCodeのデフォルトターミナルがpowershell/command promptでも、オレンジのclaude-codeボタンから起動できるようになります。
 
 ## アーキテクチャ
 
