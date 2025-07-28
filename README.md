@@ -45,7 +45,8 @@
 
 ## 使用方法
 
-インストール完了後、VSCodeのClaude Code拡張機能が正常に動作します。
+インストール完了後、コマンドプロンプトからclaude-codeが実行できます。引数も利用可能です。
+VSCodeのデフォルトターミナルがPS/CMDでもClaude Code拡張機能が正常に動作します。
 
 ```cmd
 claude --version
